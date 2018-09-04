@@ -4193,7 +4193,7 @@ propellers on the green thrusters and counter-clockwise propellers on the blue t
         <location filename="../../src/QmlControls/FlightModeDropdown.qml" line="22"/>
         <source>N/A</source>
         <comment>No data to display</comment>
-        <translation type="unfinished">N/A(无数据)</translation>
+        <translation>N/A(无数据)</translation>
     </message>
 </context>
 <context>
@@ -5334,62 +5334,62 @@ Click the Next button to upload calibration to board. Click Cancel if you don&ap
     <message>
         <location filename="../../src/ui/linechart/LinechartWidget.cc" line="249"/>
         <source>Time axis:</source>
-        <translation type="unfinished"></translation>
+        <translation>时间轴</translation>
     </message>
     <message>
         <location filename="../../src/ui/linechart/LinechartWidget.cc" line="253"/>
         <source>10 seconds</source>
-        <translation type="unfinished"></translation>
+        <translation>10秒</translation>
     </message>
     <message>
         <location filename="../../src/ui/linechart/LinechartWidget.cc" line="254"/>
         <source>20 seconds</source>
-        <translation type="unfinished"></translation>
+        <translation>20秒</translation>
     </message>
     <message>
         <location filename="../../src/ui/linechart/LinechartWidget.cc" line="255"/>
         <source>30 seconds</source>
-        <translation type="unfinished"></translation>
+        <translation>30秒</translation>
     </message>
     <message>
         <location filename="../../src/ui/linechart/LinechartWidget.cc" line="256"/>
         <source>40 seconds</source>
-        <translation type="unfinished"></translation>
+        <translation>40秒</translation>
     </message>
     <message>
         <location filename="../../src/ui/linechart/LinechartWidget.cc" line="257"/>
         <source>50 seconds</source>
-        <translation type="unfinished"></translation>
+        <translation>50秒</translation>
     </message>
     <message>
         <location filename="../../src/ui/linechart/LinechartWidget.cc" line="258"/>
         <source>1 minute</source>
-        <translation type="unfinished"></translation>
+        <translation>1分钟</translation>
     </message>
     <message>
         <location filename="../../src/ui/linechart/LinechartWidget.cc" line="259"/>
         <source>2 minutes</source>
-        <translation type="unfinished"></translation>
+        <translation>2分钟</translation>
     </message>
     <message>
         <location filename="../../src/ui/linechart/LinechartWidget.cc" line="260"/>
         <source>3 minutes</source>
-        <translation type="unfinished"></translation>
+        <translation>3分钟</translation>
     </message>
     <message>
         <location filename="../../src/ui/linechart/LinechartWidget.cc" line="261"/>
         <source>4 minutes</source>
-        <translation type="unfinished"></translation>
+        <translation>4分钟</translation>
     </message>
     <message>
         <location filename="../../src/ui/linechart/LinechartWidget.cc" line="262"/>
         <source>5 minutes</source>
-        <translation type="unfinished"></translation>
+        <translation>5分钟</translation>
     </message>
     <message>
         <location filename="../../src/ui/linechart/LinechartWidget.cc" line="263"/>
         <source>10 minutes</source>
-        <translation type="unfinished"></translation>
+        <translation>10分钟</translation>
     </message>
     <message>
         <location filename="../../src/ui/linechart/LinechartWidget.cc" line="431"/>
@@ -11785,12 +11785,12 @@ Abs Alt </source>
     <message>
         <location filename="../../src/VideoStreaming/VideoReceiver.cc" line="632"/>
         <source>Invalid video format defined.</source>
-        <translation type="unfinished"></translation>
+        <translation>不可用的视频格式</translation>
     </message>
     <message>
         <location filename="../../src/VideoStreaming/VideoReceiver.cc" line="655"/>
         <source>Unabled to record video. Video save path must be specified in Settings.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">无法记录视频，视频存储路径须在设置中指定。</translation>
     </message>
 </context>
 <context>
