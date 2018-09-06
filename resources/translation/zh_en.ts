@@ -2346,7 +2346,7 @@ propellers on the green thrusters and counter-clockwise propellers on the blue t
     <message>
         <location filename="../../src/AutoPilotPlugins/PX4/AirframeComponent.cc" line="20"/>
         <source>Airframe</source>
-        <translation type="unfinished"></translation>
+        <translation>机架</translation>
     </message>
     <message>
         <location filename="../../src/AutoPilotPlugins/PX4/AirframeComponent.cc" line="32"/>
@@ -2472,7 +2472,7 @@ propellers on the green thrusters and counter-clockwise propellers on the blue t
     <message>
         <location filename="../../src/QmlControls/AppMessages.cc" line="106"/>
         <source>Open console log output file failed %1 : %2</source>
-        <translation type="unfinished"></translation>
+        <translation>打开终端日志输出文件失败 %1:%2</translation>
     </message>
 </context>
 <context>
@@ -4176,7 +4176,7 @@ propellers on the green thrusters and counter-clockwise propellers on the blue t
     <message>
         <location filename="../../src/FlightDisplay/FlightDisplayViewVideo.qml" line="37"/>
         <source>VIDEO DISABLED</source>
-        <translation type="unfinished"></translation>
+        <translation>禁止视频</translation>
     </message>
 </context>
 <context>
@@ -5468,7 +5468,7 @@ Click the Next button to upload calibration to board. Click Cancel if you don&ap
         <location filename="../../src/ui/toolbar/LinkIndicator.qml" line="33"/>
         <source>N/A</source>
         <comment>No data to display</comment>
-        <translation type="unfinished">N/A(无数据)</translation>
+        <translation>N/A(无数据)</translation>
     </message>
 </context>
 <context>
@@ -5476,7 +5476,7 @@ Click the Next button to upload calibration to board. Click Cancel if you don&ap
     <message>
         <location filename="../../src/comm/LinkManager.cc" line="297"/>
         <source>Connect not allowed: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>不允许连接%1</translation>
     </message>
     <message>
         <location filename="../../src/comm/LinkManager.cc" line="565"/>
@@ -5489,7 +5489,7 @@ Click the Next button to upload calibration to board. Click Cancel if you don&ap
     <message>
         <location filename="../../src/comm/LinkManager.cc" line="669"/>
         <source>Shutdown</source>
-        <translation type="unfinished"></translation>
+        <translation>关机</translation>
     </message>
     <message>
         <location filename="../../src/comm/LinkManager.cc" line="930"/>
@@ -5977,177 +5977,177 @@ Click the Next button to upload calibration to board. Click Cancel if you don&ap
     <message>
         <location filename="../../src/ui/preferences/MavlinkSettings.qml" line="76"/>
         <source>MAVLink Logging</source>
-        <translation type="unfinished"></translation>
+        <translation>MAVLink日志</translation>
     </message>
     <message>
         <location filename="../../src/ui/preferences/MavlinkSettings.qml" line="77"/>
         <source>Please enter an email address before uploading MAVLink log files.</source>
-        <translation type="unfinished"></translation>
+        <translation>更新MAVLink日志文件前请输入邮箱。</translation>
     </message>
     <message>
         <location filename="../../src/ui/preferences/MavlinkSettings.qml" line="102"/>
         <source>Ground Station</source>
-        <translation type="unfinished"></translation>
+        <translation>地面站</translation>
     </message>
     <message>
         <location filename="../../src/ui/preferences/MavlinkSettings.qml" line="121"/>
         <source>MAVLink System ID:</source>
-        <translation type="unfinished"></translation>
+        <translation>MAVLink系统ID:</translation>
     </message>
     <message>
         <location filename="../../src/ui/preferences/MavlinkSettings.qml" line="137"/>
         <source>Emit heartbeat</source>
-        <translation type="unfinished"></translation>
+        <translation>发射心跳</translation>
     </message>
     <message>
         <location filename="../../src/ui/preferences/MavlinkSettings.qml" line="146"/>
         <source>Only accept MAVs with same protocol version</source>
-        <translation type="unfinished"></translation>
+        <translation>仅接受相同版本的MAVLink协议</translation>
     </message>
     <message>
         <location filename="../../src/ui/preferences/MavlinkSettings.qml" line="163"/>
         <source>MAVLink 2.0 Logging (PX4 Firmware Only)</source>
-        <translation type="unfinished"></translation>
+        <translation>MAVLink2.0日志(仅使用PX4固件)</translation>
     </message>
     <message>
         <location filename="../../src/ui/preferences/MavlinkSettings.qml" line="185"/>
         <source>Manual Start/Stop:</source>
-        <translation type="unfinished"></translation>
+        <translation>手动开始/停止:</translation>
     </message>
     <message>
         <location filename="../../src/ui/preferences/MavlinkSettings.qml" line="189"/>
         <source>Start Logging</source>
-        <translation type="unfinished">开始记录</translation>
+        <translation>开始记录</translation>
     </message>
     <message>
         <location filename="../../src/ui/preferences/MavlinkSettings.qml" line="196"/>
         <source>Stop Logging</source>
-        <translation type="unfinished"></translation>
+        <translation>停止记录</translation>
     </message>
     <message>
         <location filename="../../src/ui/preferences/MavlinkSettings.qml" line="206"/>
         <source>Enable automatic logging</source>
-        <translation type="unfinished"></translation>
+        <translation>自动记录</translation>
     </message>
     <message>
         <location filename="../../src/ui/preferences/MavlinkSettings.qml" line="223"/>
         <source>MAVLink 2.0 Log Uploads (PX4 Firmware Only)</source>
-        <translation type="unfinished"></translation>
+        <translation>MAVLink2.0日志上传(仅适用于PX4固件)</translation>
     </message>
     <message>
         <location filename="../../src/ui/preferences/MavlinkSettings.qml" line="244"/>
         <source>Email address for Log Upload:</source>
-        <translation type="unfinished"></translation>
+        <translation>日志上传的邮箱:</translation>
     </message>
     <message>
         <location filename="../../src/ui/preferences/MavlinkSettings.qml" line="264"/>
         <source>Default Description:</source>
-        <translation type="unfinished"></translation>
+        <translation>默认描述:</translation>
     </message>
     <message>
         <location filename="../../src/ui/preferences/MavlinkSettings.qml" line="283"/>
         <source>Default Upload URL</source>
-        <translation type="unfinished"></translation>
+        <translation>默认上传URL</translation>
     </message>
     <message>
         <location filename="../../src/ui/preferences/MavlinkSettings.qml" line="303"/>
         <source>Video URL:</source>
-        <translation type="unfinished"></translation>
+        <translation>视频URL:</translation>
     </message>
     <message>
         <location filename="../../src/ui/preferences/MavlinkSettings.qml" line="320"/>
         <source>Wind Speed:</source>
-        <translation type="unfinished"></translation>
+        <translation>风速:</translation>
     </message>
     <message>
         <location filename="../../src/ui/preferences/MavlinkSettings.qml" line="356"/>
         <source>Flight Rating:</source>
-        <translation type="unfinished"></translation>
+        <translation>飞行速度:</translation>
     </message>
     <message>
         <location filename="../../src/ui/preferences/MavlinkSettings.qml" line="392"/>
         <source>Additional Feedback:</source>
-        <translation type="unfinished"></translation>
+        <translation>额外反馈:</translation>
     </message>
     <message>
         <location filename="../../src/ui/preferences/MavlinkSettings.qml" line="410"/>
         <source>Make this log publicly available</source>
-        <translation type="unfinished"></translation>
+        <translation>该日志公开给所有人</translation>
     </message>
     <message>
         <location filename="../../src/ui/preferences/MavlinkSettings.qml" line="420"/>
         <source>Enable automatic log uploads</source>
-        <translation type="unfinished"></translation>
+        <translation>自动上传日志</translation>
     </message>
     <message>
         <location filename="../../src/ui/preferences/MavlinkSettings.qml" line="431"/>
         <source>Delete log file after uploading</source>
-        <translation type="unfinished"></translation>
+        <translation>上传完成删除日志</translation>
     </message>
     <message>
         <location filename="../../src/ui/preferences/MavlinkSettings.qml" line="449"/>
         <source>Saved Log Files</source>
-        <translation type="unfinished"></translation>
+        <translation>保存日志文件</translation>
     </message>
     <message>
         <location filename="../../src/ui/preferences/MavlinkSettings.qml" line="511"/>
         <source>Uploaded</source>
-        <translation type="unfinished"></translation>
+        <translation>上传</translation>
     </message>
     <message>
         <location filename="../../src/ui/preferences/MavlinkSettings.qml" line="534"/>
         <source>Check All</source>
-        <translation type="unfinished"></translation>
+        <translation>检查所有</translation>
     </message>
     <message>
         <location filename="../../src/ui/preferences/MavlinkSettings.qml" line="544"/>
         <source>Check None</source>
-        <translation type="unfinished"></translation>
+        <translation>不检查</translation>
     </message>
     <message>
         <location filename="../../src/ui/preferences/MavlinkSettings.qml" line="554"/>
         <source>Delete Selected</source>
-        <translation type="unfinished"></translation>
+        <translation>删除选中</translation>
     </message>
     <message>
         <location filename="../../src/ui/preferences/MavlinkSettings.qml" line="562"/>
         <source>Delete Selected Log Files</source>
-        <translation type="unfinished"></translation>
+        <translation>删除选中的日志文件</translation>
     </message>
     <message>
         <location filename="../../src/ui/preferences/MavlinkSettings.qml" line="563"/>
         <source>Confirm deleting selected log files?</source>
-        <translation type="unfinished"></translation>
+        <translation>确认删除选中的日志文件？</translation>
     </message>
     <message>
         <location filename="../../src/ui/preferences/MavlinkSettings.qml" line="570"/>
         <source>Upload Selected</source>
-        <translation type="unfinished"></translation>
+        <translation>上传所选</translation>
     </message>
     <message>
         <location filename="../../src/ui/preferences/MavlinkSettings.qml" line="585"/>
         <source>Upload Selected Log Files</source>
-        <translation type="unfinished"></translation>
+        <translation>上传选中的日志文件</translation>
     </message>
     <message>
         <location filename="../../src/ui/preferences/MavlinkSettings.qml" line="586"/>
         <source>Confirm uploading selected log files?</source>
-        <translation type="unfinished"></translation>
+        <translation>确认上传选中的日志文件？</translation>
     </message>
     <message>
         <location filename="../../src/ui/preferences/MavlinkSettings.qml" line="593"/>
         <source>Cancel</source>
-        <translation type="unfinished">取消</translation>
+        <translation>取消</translation>
     </message>
     <message>
         <location filename="../../src/ui/preferences/MavlinkSettings.qml" line="602"/>
         <source>Cancel Upload</source>
-        <translation type="unfinished"></translation>
+        <translation>取消上传</translation>
     </message>
     <message>
         <location filename="../../src/ui/preferences/MavlinkSettings.qml" line="603"/>
         <source>Confirm canceling the upload process?</source>
-        <translation type="unfinished"></translation>
+        <translation>确认取消上传？</translation>
     </message>
 </context>
 <context>
@@ -8423,7 +8423,7 @@ Click the Next button to upload calibration to board. Click Cancel if you don&ap
     <message>
         <location filename="../../src/QmlControls/PreFlightCheckButton.qml" line="53"/>
         <source>Passed</source>
-        <translation type="unfinished"></translation>
+        <translation>通过</translation>
     </message>
 </context>
 <context>
@@ -8431,7 +8431,7 @@ Click the Next button to upload calibration to board. Click Cancel if you don&ap
     <message>
         <location filename="../../src/QmlControls/PreFlightCheckGroup.qml" line="46"/>
         <source> (passed)</source>
-        <translation type="unfinished"></translation>
+        <translation>（通过）</translation>
     </message>
 </context>
 <context>
@@ -8439,17 +8439,17 @@ Click the Next button to upload calibration to board. Click Cancel if you don&ap
     <message>
         <location filename="../../src/QmlControls/PreFlightCheckList.qml" line="73"/>
         <source>Pre-Flight Checklist %1</source>
-        <translation type="unfinished"></translation>
+        <translation>飞行前检查项%1</translation>
     </message>
     <message>
         <location filename="../../src/QmlControls/PreFlightCheckList.qml" line="73"/>
         <source>(passed)</source>
-        <translation type="unfinished"></translation>
+        <translation>(通过)</translation>
     </message>
     <message>
         <location filename="../../src/QmlControls/PreFlightCheckList.qml" line="84"/>
         <source>Reset the checklist (e.g. after a vehicle reboot)</source>
-        <translation type="unfinished"></translation>
+        <translation>重设检查项(例如飞机重启后)</translation>
     </message>
 </context>
 <context>
@@ -8457,22 +8457,22 @@ Click the Next button to upload calibration to board. Click Cancel if you don&ap
     <message>
         <location filename="../../src/FlightDisplay/PreFlightGPSCheck.qml" line="17"/>
         <source>GPS</source>
-        <translation type="unfinished"></translation>
+        <translation>GPS</translation>
     </message>
     <message>
         <location filename="../../src/FlightDisplay/PreFlightGPSCheck.qml" line="20"/>
         <source>Waiting for 3D lock.</source>
-        <translation type="unfinished"></translation>
+        <translation>等待3D锁定</translation>
     </message>
     <message>
         <location filename="../../src/FlightDisplay/PreFlightGPSCheck.qml" line="32"/>
         <source>Warning - Sat count below %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>警告-卫星数低于%1</translation>
     </message>
     <message>
         <location filename="../../src/FlightDisplay/PreFlightGPSCheck.qml" line="32"/>
         <source>Waiting for sat count above %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>等待卫星数高于%1</translation>
     </message>
 </context>
 <context>
@@ -9189,7 +9189,7 @@ sudo apt-get remove modemmanager</source>
     <message>
         <location filename="../../src/ui/QGCMAVLinkInspector.cc" line="56"/>
         <source>Vehicle %1</source>
-        <translation type="unfinished"></translation>
+        <translation>飞机%1</translation>
     </message>
 </context>
 <context>
@@ -10503,17 +10503,17 @@ Click Ok to start calibration.</source>
     <message>
         <location filename="../../src/AutoPilotPlugins/PX4/SensorsSetup.qml" line="136"/>
         <source>Compass Calibration Complete</source>
-        <translation type="unfinished"></translation>
+        <translation>磁罗盘校准完成</translation>
     </message>
     <message>
         <location filename="../../src/AutoPilotPlugins/PX4/SensorsSetup.qml" line="141"/>
         <source>Calibration Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>取消校准</translation>
     </message>
     <message>
         <location filename="../../src/AutoPilotPlugins/PX4/SensorsSetup.qml" line="149"/>
         <source>Sensor Calibration</source>
-        <translation type="unfinished"></translation>
+        <translation>传感器校准</translation>
     </message>
     <message>
         <location filename="../../src/AutoPilotPlugins/PX4/SensorsSetup.qml" line="149"/>
@@ -10569,32 +10569,32 @@ Click Ok to start calibration.</source>
     <message>
         <location filename="../../src/AutoPilotPlugins/PX4/SensorsSetup.qml" line="391"/>
         <source>Compass</source>
-        <translation type="unfinished"></translation>
+        <translation>磁罗盘</translation>
     </message>
     <message>
         <location filename="../../src/AutoPilotPlugins/PX4/SensorsSetup.qml" line="398"/>
         <source>Calibrate Compass</source>
-        <translation type="unfinished"></translation>
+        <translation>校准磁罗盘</translation>
     </message>
     <message>
         <location filename="../../src/AutoPilotPlugins/PX4/SensorsSetup.qml" line="405"/>
         <source>Gyroscope</source>
-        <translation type="unfinished"></translation>
+        <translation>陀螺仪</translation>
     </message>
     <message>
         <location filename="../../src/AutoPilotPlugins/PX4/SensorsSetup.qml" line="412"/>
         <source>Calibrate Gyro</source>
-        <translation type="unfinished"></translation>
+        <translation>校准陀螺仪</translation>
     </message>
     <message>
         <location filename="../../src/AutoPilotPlugins/PX4/SensorsSetup.qml" line="419"/>
         <source>Accelerometer</source>
-        <translation type="unfinished"></translation>
+        <translation>加速度计</translation>
     </message>
     <message>
         <location filename="../../src/AutoPilotPlugins/PX4/SensorsSetup.qml" line="426"/>
         <source>Calibrate Accelerometer</source>
-        <translation type="unfinished"></translation>
+        <translation>校准加速度</translation>
     </message>
     <message>
         <location filename="../../src/AutoPilotPlugins/PX4/SensorsSetup.qml" line="433"/>
@@ -10615,12 +10615,12 @@ Click Ok to start calibration.</source>
     <message>
         <location filename="../../src/AutoPilotPlugins/PX4/SensorsSetup.qml" line="466"/>
         <source>Cancel</source>
-        <translation type="unfinished">取消</translation>
+        <translation>取消</translation>
     </message>
     <message>
         <location filename="../../src/AutoPilotPlugins/PX4/SensorsSetup.qml" line="475"/>
         <source>Next</source>
-        <translation type="unfinished"></translation>
+        <translation>下一步</translation>
     </message>
     <message>
         <location filename="../../src/AutoPilotPlugins/PX4/SensorsSetup.qml" line="483"/>
@@ -10636,7 +10636,7 @@ Click Ok to start calibration.</source>
         <location filename="../../src/AutoPilotPlugins/PX4/SensorsSetup.qml" line="599"/>
         <location filename="../../src/AutoPilotPlugins/PX4/SensorsSetup.qml" line="608"/>
         <source>Rotate</source>
-        <translation type="unfinished"></translation>
+        <translation>旋转</translation>
     </message>
     <message>
         <location filename="../../src/AutoPilotPlugins/PX4/SensorsSetup.qml" line="563"/>
@@ -10646,7 +10646,7 @@ Click Ok to start calibration.</source>
         <location filename="../../src/AutoPilotPlugins/PX4/SensorsSetup.qml" line="599"/>
         <location filename="../../src/AutoPilotPlugins/PX4/SensorsSetup.qml" line="608"/>
         <source>Hold Still</source>
-        <translation type="unfinished">保持不动</translation>
+        <translation>保持不动</translation>
     </message>
 </context>
 <context>
@@ -10659,17 +10659,17 @@ Click Ok to start calibration.</source>
     <message>
         <location filename="../../src/comm/SerialLink.cc" line="142"/>
         <source>Error connecting: Could not create port. %1</source>
-        <translation type="unfinished"></translation>
+        <translation>连接时失败，无法创建端口，%1</translation>
     </message>
     <message>
         <location filename="../../src/comm/SerialLink.cc" line="234"/>
         <source>Error opening port: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>打开端口%1出错</translation>
     </message>
     <message>
         <location filename="../../src/comm/SerialLink.cc" line="272"/>
         <source>Could not read data - link %1 is disconnected!</source>
-        <translation type="unfinished"></translation>
+        <translation>无法读取数据-%1未连接！</translation>
     </message>
     <message>
         <location filename="../../src/comm/SerialLink.cc" line="377"/>
@@ -10745,27 +10745,27 @@ Click Ok to start calibration.</source>
     <message>
         <location filename="../../src/AutoPilotPlugins/Common/SetupPage.qml" line="42"/>
         <source>armed</source>
-        <translation type="unfinished"></translation>
+        <translation>已解锁</translation>
     </message>
     <message>
         <location filename="../../src/AutoPilotPlugins/Common/SetupPage.qml" line="42"/>
         <source>flying</source>
-        <translation type="unfinished"></translation>
+        <translation>正在飞行</translation>
     </message>
     <message>
         <location filename="../../src/AutoPilotPlugins/Common/SetupPage.qml" line="45"/>
         <source>%1 Setup</source>
-        <translation type="unfinished"></translation>
+        <translation>%1设置</translation>
     </message>
     <message>
         <location filename="../../src/AutoPilotPlugins/Common/SetupPage.qml" line="68"/>
         <source>Advanced</source>
-        <translation type="unfinished"></translation>
+        <translation>高级</translation>
     </message>
     <message>
         <location filename="../../src/AutoPilotPlugins/Common/SetupPage.qml" line="78"/>
         <source> (Disabled while the vehicle is %1)</source>
-        <translation type="unfinished"></translation>
+        <translation>飞机正在%1执行不被允许</translation>
     </message>
 </context>
 <context>
@@ -11106,22 +11106,22 @@ Abs Alt </source>
     <message>
         <location filename="../../src/AutoPilotPlugins/Common/SyslinkComponent.qml" line="44"/>
         <source>Radio Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>遥控器设置</translation>
     </message>
     <message>
         <location filename="../../src/AutoPilotPlugins/Common/SyslinkComponent.qml" line="62"/>
         <source>Channel</source>
-        <translation type="unfinished"></translation>
+        <translation>通道</translation>
     </message>
     <message>
         <location filename="../../src/AutoPilotPlugins/Common/SyslinkComponent.qml" line="87"/>
         <source>Address</source>
-        <translation type="unfinished"></translation>
+        <translation>地址</translation>
     </message>
     <message>
         <location filename="../../src/AutoPilotPlugins/Common/SyslinkComponent.qml" line="113"/>
         <source>Data Rate</source>
-        <translation type="unfinished"></translation>
+        <translation>数据速率</translation>
     </message>
 </context>
 <context>
@@ -11135,12 +11135,12 @@ Abs Alt </source>
     <message>
         <location filename="../../src/comm/TCPLink.cc" line="165"/>
         <source>Error on link %1. Connection failed</source>
-        <translation type="unfinished"></translation>
+        <translation>连接%1出错。连接失败</translation>
     </message>
     <message>
         <location filename="../../src/comm/TCPLink.cc" line="179"/>
         <source>Error on link %1. Error on socket: %2.</source>
-        <translation type="unfinished"></translation>
+        <translation>连接%1出错。Socket出错：%2</translation>
     </message>
 </context>
 <context>
@@ -11790,7 +11790,7 @@ Abs Alt </source>
     <message>
         <location filename="../../src/VideoStreaming/VideoReceiver.cc" line="655"/>
         <source>Unabled to record video. Video save path must be specified in Settings.</source>
-        <translation type="unfinished">无法记录视频，视频存储路径须在设置中指定。</translation>
+        <translation>无法记录视频，视频存储路径须在设置中指定。</translation>
     </message>
 </context>
 <context>
